@@ -1,4 +1,4 @@
-<img src="./.github/ignite.png" align="center" />
+<img src="https://github.com/allyfx/ignite-challenges-react/blob/master/.github/ignite.png" align="center" />
 
 </br>
 
