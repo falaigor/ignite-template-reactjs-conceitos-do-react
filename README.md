@@ -7,7 +7,7 @@
 
 ## 💡 O que é isso?
 
-Esté um repositório com os desafios do Bootcamp da Rocketseat.
+Esté um repositório com o primeiro desafio do Bootcamp da Rocketseat, que consiste em uma simples aplicação de toDo list
 
 ## 🖥 Setup
 
